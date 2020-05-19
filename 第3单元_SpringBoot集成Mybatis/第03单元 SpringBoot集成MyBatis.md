@@ -71,7 +71,7 @@ orderList.forEach(order->{
 
 ```properties
 #日志配置
-logging.level.com.zhanggm.springboot.dao=info
+logging.level.com.gaofei.springboot.dao=info
 logging.file.path=D:\\log\\
 ```
 
